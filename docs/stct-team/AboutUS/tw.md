@@ -23,7 +23,7 @@ Check here! [AboutUS](/docs/stct-team/AboutUS/en)
 
 這個網站由 黏液科技繁體中文版 維護.
 
-使用 [Doks](getdoks.org) 主題, 靜態網站由 [Hugo](https://gohugo.io/) 生成!
+使用 [Doks](https://getdoks.org) 主題, 靜態網站由 [Hugo](https://gohugo.io/) 生成!
 
 本網站仍持續更新中.
 
