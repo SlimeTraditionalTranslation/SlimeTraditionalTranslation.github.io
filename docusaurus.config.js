@@ -72,11 +72,11 @@ const config = {
             title: 'Wiki',
             items: [
               {
-                label: '關於我們',
-                to: '/docs/stct-team/AboutUS/tw',
+                label: '黏液科技維基',
+                to: '/docs/Slimefun',
               },
               {
-                label: '黏液科技維基',
+                label: '黏液附加維基',
                 to: '/docs/Slimefun',
               },
             ],
@@ -101,6 +101,10 @@ const config = {
           {
             title: '更多資訊',
             items: [
+              {
+                label: '關於我們',
+                href: '/docs/stct-team/AboutUS/tw',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/SlimeTraditionalTranslation/',

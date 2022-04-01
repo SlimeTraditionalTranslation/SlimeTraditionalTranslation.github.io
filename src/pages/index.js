@@ -18,12 +18,12 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             style={{marginRight: '0.75rem'}}
             to="/docs/home">
-            點擊查看維基
+            🗏 點擊查看維基
           </Link>
           <Link
             className="button button--warning button--lg"
             to="https://xmikux.github.io/builds/">
-            建構頁面
+            ⭳ 建構頁面
           </Link>
         </div>
       </div>
