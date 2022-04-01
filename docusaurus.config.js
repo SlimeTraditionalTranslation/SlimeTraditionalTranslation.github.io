@@ -26,7 +26,7 @@ const config = {
           // Please change this to your repo.
           // editUrl:
           //   'https://github.com/SlimeTraditionalTranslation/SlimeTraditionalTranslation.github.io',
-          // showLastUpdateAuthor: false,
+          showLastUpdateTime: true,
         },
         // blog: {
         //   showReadingTime: true,
@@ -59,9 +59,18 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/SlimeTraditionalTranslation/',
-            label: 'GitHub',
+            href: 'https://discord.gg/GF4CwjFXT9',
+            // label: 'Translate Discord Invite',
             position: 'right',
+            className: 'header-discord-link',
+            'aria-label': 'Translate Discord Invite',
+          },
+          {
+            href: 'https://github.com/SlimeTraditionalTranslation/',
+            // label: 'GitHub',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
