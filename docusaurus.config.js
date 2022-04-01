@@ -48,7 +48,7 @@ const config = {
         title: '黏液科技繁體版',
         logo: {
           alt: 'SlimetradiTionalTranslation Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
