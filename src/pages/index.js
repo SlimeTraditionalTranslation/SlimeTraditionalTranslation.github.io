@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import { AiOutlineDownload } from "react-icons/ai";
+import { BiDownload } from "react-icons/bi";
 import { FaBook } from "react-icons/fa";
 
 function HomepageHeader() {
@@ -20,12 +20,12 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             style={{marginRight: '0.75rem'}}
             to="/docs/home">
-            <FaBook /> 點擊查看維基
+            <FaBook style={{verticalAlign: '-2'}} /> 查看維基
           </Link>
           <Link
             className="button button--warning button--lg"
             to="https://xmikux.github.io/builds/">
-            <AiOutlineDownload />建構頁面
+            <BiDownload style={{verticalAlign: '-2'}} /> 建構頁面
           </Link>
         </div>
       </div>
