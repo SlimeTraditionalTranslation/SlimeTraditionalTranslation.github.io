@@ -17,15 +17,16 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className={clsx("button button--secondary button--lg", styles.alignMiddle)}
             style={{marginRight: '0.75rem'}}
             to="/docs/home">
-            <FaBook style={{verticalAlign: '-2'}} /> 查看維基
+            <FaBook style={{marginRight: '0.375rem'}}/>
+            點擊查看維基
           </Link>
           <Link
-            className="button button--warning button--lg"
+            className={clsx("button button--warning button--lg", styles.alignMiddle)}
             to="https://xmikux.github.io/builds/">
-            <BiDownload style={{verticalAlign: '-2'}} /> 建構頁面
+            <BiDownload style={{marginRight: '0.375rem'}}/>建構頁面
           </Link>
         </div>
       </div>

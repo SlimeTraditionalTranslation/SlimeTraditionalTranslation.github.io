@@ -22,3 +22,8 @@
   align-items: center;
   justify-content: center;
 }
+
+.alignMiddle {
+  display: flex;
+  align-items: center;
+}
