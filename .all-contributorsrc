@@ -25,6 +25,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "weiii-joe",
+      "name": "winkoko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49436544?v=4",
+      "profile": "https://github.com/weiii-joe",
+      "contributions": [
+        "translation",
+        "review"
+      ]
     }
   ],
   "projectName": "SlimeTraditionalTranslation.github.io",
