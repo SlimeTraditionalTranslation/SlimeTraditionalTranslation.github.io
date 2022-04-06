@@ -1,11 +1,11 @@
 ---
-title: "黏液維基 - 貢獻者列表"
+title: "繁體黏液 - 貢獻者列表"
 sidebar_position: 2
 ---
 
-感謝以下列表的翻譯人員
+感謝以下列表的所有貢獻者
 
-為黏液科技的維基進行大量的翻譯!
+為這個小小繁體黏液網站進行大大的貢獻
 
 ## 貢獻者清單
 
@@ -21,5 +21,4 @@ sidebar_position: 2
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
