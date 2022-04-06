@@ -3,20 +3,11 @@
     "docs/TranslateInfo/SlimefunWiki-Contributor.md"
   ],
   "imageSize": 100,
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 6,
   "contributorsSortAlphabetically": false,
   "types": {},
   "skipCi": true,
   "contributors": [
-    {
-      "login": "kingdom84521",
-      "name": "kingdom84521",
-      "avatar_url": "https://avatars.githubusercontent.com/u/26183887?v=4",
-      "profile": "https://github.com/kingdom84521",
-      "contributions": [
-        "code"
-      ]
-    },
     {
       "login": "xMikux",
       "name": "Miku",
@@ -24,6 +15,15 @@
       "profile": "https://github.com/xMikux",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "kingdom84521",
+      "name": "kingdom84521",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26183887?v=4",
+      "profile": "https://github.com/kingdom84521",
+      "contributions": [
+        "code"
       ]
     }
   ],
