@@ -10,7 +10,7 @@ const config = {
   tagline: '由興趣推動翻譯的團隊',
   url: 'https://slimetraditionaltranslation.github.io/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log', // default is throw, but change to log.
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'SlimeTraditionalTranslation',
