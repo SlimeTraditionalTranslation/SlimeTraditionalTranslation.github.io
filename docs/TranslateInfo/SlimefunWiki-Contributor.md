@@ -14,11 +14,12 @@ sidebar_position: 2
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/xMikux"><img src="https://avatars.githubusercontent.com/u/26039249?v=4" width="100px;" alt=""/><br /><sub><b>Miku</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kingdom84521"><img src="https://avatars.githubusercontent.com/u/26183887?v=4" width="100px;" alt=""/><br /><sub><b>kingdom84521</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kingdom84521"><img src="https://avatars.githubusercontent.com/u/26183887?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kingdom84521</b></sub></a><br /><a href="https://github.com/SlimeTraditionalTranslation/SlimeTraditionalTranslation.github.io/commits?author=kingdom84521" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/xMikux"><img src="https://avatars.githubusercontent.com/u/26039249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miku</b></sub></a><br /><a href="#translation-xMikux" title="Translation">🌍</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
