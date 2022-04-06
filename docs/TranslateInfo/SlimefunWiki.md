@@ -1,7 +1,17 @@
 ---
-title: "黏液維基翻譯"
-sidebar_position: 1
+title: "黏液維基- 翻譯"
+sidebar_position: 2
 ---
+
+## 使用 Crowdin 進行翻譯
+
+我們使用 Crowdin 來進行所有黏液科技維基翻譯
+
+<https://crowdin.com/project/stct-slimefun-wiki>
+
+總體黏液主體維基翻譯進度
+
+[![Crowdin](https://badges.crowdin.net/stct-slimefun-wiki/localized.svg)](https://crowdin.com/project/stct-slimefun-wiki)
 
 ## 翻譯必須遵照現有的繁體翻譯物品名
 
