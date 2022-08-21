@@ -20,7 +20,7 @@ sidebar_position: 3
 | CrystamaeHistoria | :x: |
 | DankTech2 | :x: |
 | DyedBackpacks | :x: |
-| DynaTech | :x: |
+| DynaTech | :o: |
 | EcoPower | :x: |
 | ElectricSpawners | :x: |
 | ExoticGarden | :x: |
@@ -28,7 +28,7 @@ sidebar_position: 3
 | ExtraHeads | :x: |
 | ExtraTools | :x: |
 | FlowerPower | :x: |
-| FluffyMachines | :x: |
+| FluffyMachines | :o: |
 | FoxyMachines | :x: |
 | Galactifun | :x: |
 | GlobalWarming | :x: |
@@ -37,7 +37,7 @@ sidebar_position: 3
 | HotbarPets | :x: |
 | InfinityExpansion | :x: |
 | Liquid | :x: |
-| LiteXpansion | :x: |
+| LiteXpansion | :o: |
 | luckyblocks-sf | :x: |
 | LuckyPandas | :x: |
 | MiniBlocks | :x: |
